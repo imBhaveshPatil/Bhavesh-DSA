@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Array\ArrayMinMax.cs" />
+    <Compile Include="Array\ReverseAnArray.cs" />
+    <Compile Include="Array\Sorting.cs" />
+    <Compile Include="Array\StringOperator.cs" />
+    <Compile Include="Array\SumOfArrays.cs" />
+    <Compile Include="Array\Traversal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
