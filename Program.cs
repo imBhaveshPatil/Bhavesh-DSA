@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Bhavesh_DSA.Array;
 
 namespace Bhavesh_DSA
 {
@@ -10,6 +11,15 @@ namespace Bhavesh_DSA
     {
         static void Main(string[] args)
         {
+            Sorting.SortArrays();
+            ArrayMinMax.MinMaxArray();
+            SumOfArrays.SumOfArray();
+            ReverseAnArray.ReverseArray();
+            StringOperator.OperatorStringArray();
+            Traversal.ArrayTraversal();
+            SubArray.FindSubArrayAndCount();
+
+            Console.ReadKey();
         }
     }
 }
