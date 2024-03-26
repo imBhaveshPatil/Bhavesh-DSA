@@ -18,6 +18,7 @@ namespace Bhavesh_DSA
             StringOperator.OperatorStringArray();
             Traversal.ArrayTraversal();
             SubArray.FindSubArrayAndCount();
+            Reverse2DArray.ReverseArray2D();
 
             Console.ReadKey();
         }
