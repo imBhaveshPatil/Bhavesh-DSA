@@ -8,20 +8,6 @@ namespace Bhavesh_DSA.Array
 {
     class MatrixTranspose
     {
-        /*  input
-            1   2   3   4  
-            5   6   7   8  
-            9   10  11  12 
-            13  14  15  16
-            17  18  19  20
-
-            output
-            1   5    9  13  17
-            2   6  10  14  18
-            3   7  11  15  19
-            4   8  12  16  20  */
-
-
         internal static void TransposeMatrix()
         {
             int[,] arr = { { 1, 2, 3, 4 }, 
