@@ -19,6 +19,7 @@ namespace Bhavesh_DSA
             Traversal.ArrayTraversal();
             SubArray.FindSubArrayAndCount();
             Reverse2DArray.ReverseArray2D();
+            MatrixTranspose.TransposeMatrix();
 
             Console.ReadKey();
         }

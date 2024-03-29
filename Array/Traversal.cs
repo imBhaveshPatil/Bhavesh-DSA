@@ -10,7 +10,7 @@ namespace Bhavesh_DSA.Array
     {
         internal static void ArrayTraversal()
         {
-            int[,] tr = { { 1, 2, 3, 4 }, { 5, 6, 7, 8 },{ 9,10,11,12}, { 13,14,15,16}  };
+            int[,] tr = { { 1, 2, 3, 4 }, { 5, 6, 7, 8 },{ 9,10,11,12}, { 13,14,15,16} };
             
             for (int i = 0; i < tr.GetLength(0); i++)
             {
