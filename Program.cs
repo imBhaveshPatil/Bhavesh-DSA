@@ -20,6 +20,7 @@ namespace Bhavesh_DSA
             SubArray.FindSubArrayAndCount();
             Reverse2DArray.ReverseArray2D();
             MatrixTranspose.TransposeMatrix();
+            ClockWise2DArray.RotateClockWise();
 
             Console.ReadKey();
         }
