@@ -17,7 +17,6 @@ namespace Bhavesh_DSA.Array
                            { 13, 14, 15, 16 } };
 
             var rowLen = arr.GetLength(0);
-
             int endRow = rowLen - 1;
             for (int startRow = 0; startRow < endRow; startRow++)
             {
