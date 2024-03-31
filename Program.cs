@@ -21,6 +21,7 @@ namespace Bhavesh_DSA
             Reverse2DArray.ReverseArray2D();
             MatrixTranspose.TransposeMatrix();
             ClockWise2DArray.RotateClockWise();
+            RotateArray180.Array180();
 
             Console.ReadKey();
         }
