@@ -22,6 +22,7 @@ namespace Bhavesh_DSA
             MatrixTranspose.TransposeMatrix();
             ClockWise2DArray.RotateClockWise();
             RotateArray180.Array180();
+            RotateArray270.Rotate270Array();
 
             Console.ReadKey();
         }
