@@ -23,6 +23,7 @@ namespace Bhavesh_DSA
             ClockWise2DArray.RotateClockWise();
             RotateArray180.Array180();
             RotateArray270.Rotate270Array();
+            FindMissingNumber.FindMissingNumbers();
 
             Console.ReadKey();
         }
