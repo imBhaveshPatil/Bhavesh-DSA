@@ -11,7 +11,7 @@ namespace Bhavesh_DSA.Array
     {
         internal static void MinMaxArray()
         {
-            int[] array = { 10, 5, -25, -7, 19, 2, -10 };
+            int[] array = { 10, 5, -25, -7, 19, 2,44, -10 };
             
             int max = array[0];
             int min = array[0];
@@ -19,7 +19,7 @@ namespace Bhavesh_DSA.Array
             for (int a = 1; a < array.Length; a++)
             {
 
-                if (max < array[a]) // min > array[a]
+                if (max < array[a])
                 {
                     max = array[a];
                 }
