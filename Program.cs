@@ -25,6 +25,7 @@ namespace Bhavesh_DSA
             RotateArray270.Rotate270Array();
             FindMissingNumber.FindMissingNumbers();
             PeakElement.FindPeakElementFromArray();
+            CountOccurance.NumOfOccurances();
 
             Console.ReadKey();
         }
