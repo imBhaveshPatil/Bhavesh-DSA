@@ -49,6 +49,7 @@
     <Compile Include="Array\FindMissingNumber.cs" />
     <Compile Include="Array\MatrixTranspose.cs" />
     <Compile Include="Array\PeakElement.cs" />
+    <Compile Include="Array\RemoveDuplicateElements.cs" />
     <Compile Include="Array\Reverse2DArray.cs" />
     <Compile Include="Array\ReverseAnArray.cs" />
     <Compile Include="Array\RotateArray180.cs" />

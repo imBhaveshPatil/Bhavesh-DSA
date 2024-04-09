@@ -26,6 +26,7 @@ namespace Bhavesh_DSA
             FindMissingNumber.FindMissingNumbers();
             PeakElement.FindPeakElementFromArray();
             CountOccurance.NumOfOccurances();
+            RemoveDuplicateElements.ToRemoveDuplicateElements();
 
             Console.ReadKey();
         }
