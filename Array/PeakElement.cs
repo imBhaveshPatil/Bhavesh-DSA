@@ -6,7 +6,7 @@ namespace Bhavesh_DSA.Array
     {
         internal static void FindPeakElementFromArray()
         {
-            int[] arr = { 1, 2, 3, 4, 5, 4, 3 };
+            int[] arr = { 2, 8, 4, -1, 7, 10, 5, 6 };
             int n = arr.Length;
             int point = GetPeakElement(arr, n);
 
