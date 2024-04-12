@@ -28,6 +28,8 @@ namespace Bhavesh_DSA
             CountOccurance.NumOfOccurances();
             RemoveDuplicateElements.ToRemoveDuplicateElements();
 
+            SortAlgorithm.SelectionSort.SortingWithSelection();
+
             Console.ReadKey();
         }
     }
