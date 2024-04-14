@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Bhavesh_DSA.Array;
+using Bhavesh_DSA.SortAlgorithm;
 
 namespace Bhavesh_DSA
 {
@@ -28,7 +25,8 @@ namespace Bhavesh_DSA
             CountOccurance.NumOfOccurances();
             RemoveDuplicateElements.ToRemoveDuplicateElements();
 
-            SortAlgorithm.SelectionSort.SortingWithSelection();
+            SelectionSort.SortingWithSelection();
+            BubbleSort.SortingWithBubble();
 
             Console.ReadKey();
         }
