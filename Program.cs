@@ -24,7 +24,7 @@ namespace Bhavesh_DSA
             PeakElement.FindPeakElementFromArray();
             CountOccurance.NumOfOccurances();
             RemoveDuplicateElements.ToRemoveDuplicateElements();
-
+            NutsBolts.nutBoltMatch();
             SelectionSort.SortingWithSelection();
             BubbleSort.SortingWithBubble();
 

@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Array\ArrayMinMax.cs" />
+    <Compile Include="Array\NutsBolts.cs" />
     <Compile Include="Array\ClockWise2DArray.cs" />
     <Compile Include="Array\CountOccurance.cs" />
     <Compile Include="Array\FindMissingNumber.cs" />
